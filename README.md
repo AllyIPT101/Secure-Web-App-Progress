@@ -11,6 +11,6 @@ Pending Tasks:
 
 
 Task Distribution:
-Allyssa – Login and Registration
-Cedrick – Password Hashing implementation
-Hannah – Role-Based Access Control (Admin/User)
+- Allyssa: Login and Registration
+- Cedrick: Password Hashing implementation
+- Hannah: Role-Based Access Control (Admin/User)
